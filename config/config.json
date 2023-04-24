@@ -1,0 +1,6 @@
+{
+    "recoil_nerf_amount": 0.05,
+    "min_flea_level": 5,
+    "isfound_in_raid_only": true,
+    "price_stabilizer": true
+}
